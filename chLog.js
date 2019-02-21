@@ -1,0 +1,1 @@
+exports.log = messeage => console.log(messeage);
